@@ -1,0 +1,16 @@
+Themen für die erste KA
+
+-Komponenten von XAMPP und Web-Anwendungen:
+	Infoblatt 1 und Infoblatt 1a
+
+-Einrichtung der Übungs-DB und CSV-Dateien:
+	Infoblatt 1b, CSV-Dateien und Strukturdatein
+	der projektdb
+
+-Einfache SQL-Joins:
+	Aufgabenblatt 6 und Mitschriften;
+	ERM der projektdb
+
+-Vertiefung SQL-Joins:
+	Aufgabenblatt 6c und Mitschriften
+
